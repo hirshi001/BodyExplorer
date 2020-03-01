@@ -1,0 +1,108 @@
+661 947 679 960 Peroneus Longus t.
+The peroneus longus and brevis muscles plantarflex the foot, in conjunction with the tibialis posterior, antagonizing the tibialis anterior and peroneus tertius, which are dorsiflexors of the foot.
+664 938 679 948 Peroneus Brevis t.
+The muscle assists in weak plantarflexion and eversion of the foot.
+675 911 693 929 Calcaneal t.
+Acting via the Achilles tendon, the gastrocnemius and soleus muscles cause plantar flexion of the foot at the ankle. This action brings the sole of the foot closer to the back of the leg.
+668 892 684 910 Flexor hallucis longus m.
+Similar to the flexor digitorum longus and tibialis posterior muscles, the flexor hallucis longus muscle functions to plantar flex and invert the foot.
+681 882 698 900 Flexor digitorum longus mm.
+Similar to the flexor hallucis longus and tibialis posterior muscles, the flexor digitorum longus muscle functions to plantar flex and invert the foot. The flexor digitorum longus muscle is responsible for the movement and curling of the second, third, fourth and fifth toes.
+657 875 673 892 Peroneus Brevis m.
+The muscle assists in weak plantarflexion and eversion of the foot.
+653 861 669 878 Peroneus Longus m
+This muscle assists the Peroneus Brevis muscle in weak plantaflexion and eversion of the foot by providing support.
+643 826 664 848 Soleus m.
+The action of the calf muscles, including the soleus, is plantarflexion of the foot (that is, they increase the angle between the foot and the leg). They are powerful muscles and are vital in walking, running, and keeping balance. The soleus specifically plays an important role in maintaining standing posture; if not for its constant pull, the body would fall forward.
+643 720 683 815 Gastrocnemius m.
+Along with the soleus muscle, the gastrocnemius forms half of the calf muscle. Its function is plantar flexing the foot at the ankle joint and flexing the leg at the knee joint.
+684 703 695 724 Sartorius
+The sartorius muscle can move the hip joint and the knee joint, but all of its actions are weak, making it a synergist muscle. At the hip, it can flex, weakly abduct, and laterally rotate the thigh.
+657 693 675 708 Gastrocnemius medial head
+The gastrocnemius is primarily involved in running, jumping and other "fast" movements of leg, and to a lesser degree in walking and standing.
+642 689 660 704 Gastrocnemius lateral head
+Along with the soleus muscle, the gastrocnemius forms half of the calf muscle. Its function is plantar flexing the foot at the ankle joint and flexing the leg at the knee joint. The gastrocnemius is primarily involved in running, jumping and other "fast" movements of leg, and to a lesser degree in walking and standing. This specialization is connected to the predominance of white muscle fibers (type II fast twitch) present in the gastrocnemius, as opposed to the soleus, which has more red muscle fibers (type I slow twitch) and is the primary active muscle when standing still, as determined by EMG studies.
+644 681 666 699 Plantariis m.
+The plantaris acts to weakly plantar flex the ankle joint and flex the knee joint. The plantaris muscle may also provide proprioceptive feedback information to the central nervous system regarding the position of the foot. The unusually high density of proprioceptive receptor end organs supports this notion.
+665 654 683 684 Semimembranosus m.
+The semimembranosus helps to extend (straighten) the hip joint and flex (bend) the knee joint.
+661 638 684 658 Semitendinosus m.
+The semitendinosus muscle is one of three hamstring muscles that are located at the back of the thigh. The other two are the semimembranosus muscle and the biceps femoris. The semitendinosus muscle lies between the other two.
+643 614 672 638 Biceps femoris m.
+Both heads of the biceps femoris perform knee flexion.
+629 608 651 631 Vastus lateralis m.
+The vastus lateralis muscle arises from several areas of the femur, including the upper part of the intertrochanteric line; the lower, anterior borders of the greater trochanter, to the outer border of the gluteal tuberosity, and the upper half of the outer border of the linea aspera.
+625 593 642 612 Iliotibial tract
+The IT band stabilizes the knee both in extension and in partial flexion, and is therefore used constantly during walking and running. When a person is leaning forwards with a slightly flexed knee, the tract is the knee's main support against gravity.
+681 576 704 599 Gracilis m.
+The muscle adducts, medially rotates (with hip flexion), laterally rotates, and flexes the hip as above, and also aids in flexion of the knee.
+675 520 699 640 Adductor magnus m.
+The adductor magnus is a powerful adductor of the thigh, made especially active when the legs are moved from a wide spread position to one in which the legs parallel each other. The part attached to the linea aspera acts as a lateral rotator. The part which reaches the medial epicondyle acts as a medial rotator when the leg is rotated outwards and flexed, and also acts to extend the hip joint.
+613 486 646 540 Greater trochanter
+The lateral surface, quadrilateral in form, is broad, rough, convex, and marked by a diagonal impression, which extends from the postero-superior to the antero-inferior angle, and serves for the insertion of the tendon of the gluteus medius.
+620 435 700 525 Gluteus maximus m.
+When the gluteus maximus takes its fixed point from the pelvis, it extends the acetabulofemoral joint and brings the bent thigh into a line with the body. Taking its fixed point from below, it acts upon the pelvis, supporting it and the trunk upon the head of the femur; this is particularly obvious in standing on one leg.
+614 449 648 467 Tensor fasciae latae m.
+The tensor fasciae latae is a tensor of the fascia lata; continuing its action, the oblique direction of its fibers enables it to stabilize the hip in extension (assists gluteus maximus during hip extension). The fascia lata is a fibrous sheath that encircles the thigh like a subcutaneous stocking and tightly binds its muscles. On the lateral surface, it combines with the tendons of the gluteus maximus and tensor fasciae latae to form the iliotibial tract, which extends from the iliac crest to the lateral condyle of the tibia.
+620 409 664 440 Gluteus medius m.
+The anterior part acting alone helps to flex and internally rotate the hip. The posterior part acting alone helps to extend and externally rotate the hip. The anterior and posterior parts working together abduct the hip and stabilize the pelvis in the coronal plane.690 927 708 945 
+672 940 685 949 Flexor Retinaculum
+The flexor retinaculum is the roof of the carpal tunnel, through which the median nerve and tendons of muscles which flex the hand pass.
+668 930 681 941 Inferior peroneal retinaculum
+The peroneal retinacula (singular: peroneal retinaculum) are fibrous retaining bands which bind down the tendons of the peroneus longus and brevis as they run across the side of the ankle. (Retinaculum is Latin for retainer).
+681 910 701 930 Superior proneal reinaculum
+These bands consist of superior and inferior fibres. The superior fibres are attached above to the lateral malleolus and below to the lateral surface of the calcaneus.
+688 896 706 916 Flexor hallucis longus m.
+Similar to the flexor digitorum longus and tibialis posterior muscles, the flexor hallucis longus muscle functions to plantar flex and invert the foot. However, it is unique in that it also functions to flex the great toe and helps supinate the ankle.
+289 766 312 832 Tibialis anterior
+The tibialis anterior muscle is the most medial muscle of the anterior compartment of the leg. It is responsible for dorsiflexing and inverting the foot. The muscle has two origins, one being the lateral tibial condyle and the other being the upper lateral surface of the tibia, and inserts on the medial surface of the medial cuneiform and adjoining part of base of the first metatarsal of the foot allowing the toe to be pulled up and held in a locked position.
+316 766 328 854 Fibularis Longus
+The fibularis longus, also referred to as the peroneus longus, is a muscle inside the outer area of the human leg, which everts (bends in an outward direction) and flexes the ankle.
+326 546 347 644 Vastus leteralis
+The vastus lateralis muscle arises from several areas of the femur, including the upper part of the intertrochanteric line; the lower, anterior borders of the greater trochanter, to the outer border of the gluteal tuberosity, and the upper half of the outer border of the linea aspera.
+276 537 333 615 Rectus femoris
+The rectus femoris, sartorius, and iliopsoas are the flexors of the thigh at the hip. The rectus femoris is a weaker hip flexor when the knee is extended because it is already shortened and thus suffers from active insufficiency; the action will recruit more iliacus, psoas major, tensor fasciae latae, and the remaining hip flexors than it will the rectus femoris.
+268 501 312 547 Sartorius
+The sartorius muscle can move the hip joint and the knee joint, but all of its actions are weak, making it a synergist muscle. At the hip, it can flex, weakly abduct, and laterally rotate the thigh. At the knee, it can flex the leg; when the knee is flexed, sartorius medially rotates the leg.[2][1] Turning the foot to look at the sole or sitting cross-legged demonstrates all four actions of the sartorius.
+255 490 290 517 Adductor longus
+The adductor longus is in relation by its anterior surface with the pubic portion of the fascia lata, and near its insertion with the femoral artery and vein.
+272 480 311 497 Pectineus
+It is one of the muscles primarily responsible for hip flexion. It also adducts the thigh.
+289 290 339 422 Abdominal external oblique
+The external oblique functions to pull the chest downwards and compress the abdominal cavity, which increases the intra-abdominal pressure as in a valsalva maneuver. It also performs ipsilateral (same side) side-bending and contralateral (opposite side) rotation. So the right external oblique would side bend to the right and rotate to the left. The internal oblique muscle functions similarly except it rotates ipsilaterally.
+245 282 291 415 Rectus abdominis
+The rectus abdominis is an important postural muscle. It is responsible for flexing the lumbar spine, as when doing a so-called "crunch" sit up. The rib cage is brought up to where the pelvis is when the pelvis is fixed, or the pelvis can be brought towards the rib cage (posterior pelvic tilt) when the rib cage is fixed, such as in a leg-hip raise. The two can also be brought together simultaneously when neither is fixed in space.
+249 192 329 281 Pectoralis major
+It arises from the anterior surface of the sternal half of the clavicle; from breadth of the half of the anterior surface of the sternum, as low down as the attachment of the cartilage of the sixth or seventh rib; from the cartilages of all the true ribs, with the exception, frequently, of the first or seventh, and from the aponeurosis of the abdominal external oblique muscle.
+297 150 391 225 Deltoid
+When all its fibers contract simultaneously, the deltoid is the prime mover of arm abduction along the frontal plane. The arm must be medially rotated for the deltoid to have maximum effect. This makes the deltoid an antagonist muscle of the pectoralis major and latissimus dorsi during arm adduction.
+266 134 339 177 Sternocleidomastoid
+The function of this muscle is to rotate the head to the opposite side or obliquely rotate the head. It also flexes the neck. When both sides of the muscle act together, it flexes the neck and extends the head. When one side acts alone, it causes the head to rotate to the opposite side and flexes laterally to the same side (ipsilaterally).
+266 759 283 841 Soleus and gastrocnemius
+Gastrocnemius: Along with the soleus muscle, the gastrocnemius forms half of the calf muscle. Its function is plantar flexing the foot at the ankle joint and flexing the leg at the knee joint \nSoleus: The action of the calf muscles, including the soleus, is plantarflexion of the foot (that is, they increase the angle between the foot and the leg). They are powerful muscles and are vital in walking, running, and keeping balance. The soleus specifically plays an important role in maintaining standing posture; if not for its constant pull, the body would fall forward.
+264 605 292 684 Vastus medialis
+The vastus medialis is one of four muscles in the anterior compartment of the thigh. It is involved in knee extension, along with the other muscles which make up the quadriceps muscle. The vastus medialis also contributes to correct tracking of the patella.
+258 527 278 582 Gracilis
+The muscle adducts, medially rotates (with hip flexion), laterally rotates, and flexes the hip as above, and also aids in flexion of the knee.
+278 444 310 472 Iliopsoas
+Flexion of the thigh at the hip; flexion of the trunk at the hip, external rotation of the thigh at the hip; lateral flexion of the trunk (psoas major only)
+320 454 354 512 Tensor fasciae latae
+The tensor fasciae latae is a tensor of the fascia lata; continuing its action, the oblique direction of its fibers enables it to stabilize the hip in extension (assists gluteus maximus during hip extension). The fascia lata is a fibrous sheath that encircles the thigh like a subcutaneous stocking and tightly binds its muscles. On the lateral surface, it combines with the tendons of the gluteus maximus and tensor fasciae latae to form the iliotibial tract, which extends from the iliac crest to the lateral condyle of the tibia.
+359 364 394 418 Flexor carpi radialis
+This muscle originates on the medial epicondyle of the humerus. It runs just laterally of flexor digitorum superficialis and inserts on the anterior aspect of the base of the second metacarpal, and has small slips to both the third metacarpal and trapezium tuberosity.
+362 338 385 365 Pronator teres
+Pronator teres pronates the forearm, turning the hand posteriorly. If the elbow is flexed to a right angle, then pronator teres will turn the hand so that the palm faces inferiorly. It is assisted in this action by pronator quadratus.
+380 324 417 431 Brachioradialis
+The brachioradialis flexes the forearm at the elbow. When the forearm is pronated, the brachioradialis tends to supinate as it flexes. In a supinated position, it tends to pronate as it flexes. This also assists the biceps brachii.
+337 248 385 338 Brachialis
+The brachialis flexes the arm at the elbow joint. Unlike the biceps, the brachialis does not insert on the radius, and does not participate in pronation and supination of the forearm.
+353 229 405 301 Biceps Brachii
+The biceps works across three joints. The most important of these functions is to supinate the forearm and flex the elbow. Besides, the long head of biceps prevents the upward displacement of the head of the humerus. In more detail, the actions are, by joint.
+309 225 348 302 Serratus anterior
+All three parts described above pull the scapula forward around the thorax, which is essential for anteversion of the arm. As such, the muscle is an antagonist to the rhomboids. However, when the inferior and superior parts act together, they keep the scapula pressed against the thorax together with the rhomboids and therefore these parts also act as synergists to the rhomboids. The inferior part can pull the lower end of the scapula laterally and forward and thus rotates the scapula to make elevation of the arm possible. Additionally, all three parts can lift the ribs when the shoulder girdle is fixed, and thus assist in respiration.
+302 190 334 224 Pectoralis minor
+The pectoralis minor is a thin, flat muscle found immediately underneath the pectoralis major. This is the smaller of the two pectoral muscles, or muscles of the chest. This muscle extends from three origins on the third, fourth, and fifth ribs on each side of the ribcage to the coracoid process (a small, hook-like structure) of the scapula, or shoulder blade. The origins of the muscle are all lateral to the costal cartilages.
+283 146 318 167 Trapezius
+Contraction of the trapezius muscle can have two effects: movement of the scapulae when the spinal origins are stable, and movement of the spine when the scapulae are stable. Its main function is to stabilize and move the scapula.
+251 38 280 72 Occipitofrontalis
+The occipital belly originates on the lateral two-thirds of the highest nuchal line, and on the mastoid process of the temporal bone. Inserted into the galea aponeurotica, or epicranial aponeurosis, the occipital belly communicates with the frontal belly by an intermediate tendon. From the aponeurosis, the frontal belly is inserted in the fascia of the facial muscles and in the skin above the eyes and nose.
