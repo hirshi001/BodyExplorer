@@ -1,3 +1,5 @@
+import io.github.pixee.security.HostValidator;
+import io.github.pixee.security.Urls;
 import javax.swing.ImageIcon;
 import java.awt.Canvas;
 import java.awt.Color;
@@ -77,7 +79,7 @@ public class InteractCanvas extends Canvas implements MouseMotionListener, KeyLi
 
     public static void openWebpage(String urlString) {
         try {
-            Desktop.getDesktop().browse(new URL(urlString).toURI());
+            Desktop.getDesktop().browse(Urls.create(urlString, Urls.HTTP_PROTOCOLS, HostValidator.DENY_COMMON_INFRASTRUCTURE_TARGETS).toURI());
         } catch (Exception e) {
             e.printStackTrace();
         }
